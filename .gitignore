@@ -1,0 +1,5 @@
+# Go test files
+*_test.go
+
+# Local build output
+/pktpath
